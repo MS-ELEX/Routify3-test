@@ -1,0 +1,1 @@
+import{S as n,i as r,s as i,t as u,h as c,g as l,K as a,d as m}from"./vendor-78f63506.js";function _(s){let t;return{c(){t=u("about me")},l(e){t=c(e,"about me")},m(e,o){l(e,t,o)},p:a,i:a,o:a,d(e){e&&m(t)}}}class f extends n{constructor(t){super();r(this,t,null,_,i,{})}}export{f as default};

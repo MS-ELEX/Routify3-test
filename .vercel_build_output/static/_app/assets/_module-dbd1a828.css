@@ -1,0 +1,1 @@
+*{max-height:100%}html,body{overflow:hidden}.container.svelte-1drhydj{transition:transform .3s;transform:translate(calc(-100% * var(--page-index)));display:flex;padding:0 40px}.page.svelte-1drhydj{flex:0 0 100%;margin-right:80px;max-height:calc(100vh - 100px);overflow-y:auto}
